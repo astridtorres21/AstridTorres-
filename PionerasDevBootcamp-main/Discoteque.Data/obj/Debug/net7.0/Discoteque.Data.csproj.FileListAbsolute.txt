@@ -1,0 +1,12 @@
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.deps.json
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.dll
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.pdb
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.csproj.AssemblyReference.cache
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.AssemblyInfoInputs.cache
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.AssemblyInfo.cs
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.csproj.CoreCompileInputs.cache
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.dll
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/obj/Debug/net7.0/refint/Discoteque.Data.dll
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.pdb
+/Users/alpa.dev/Desktop/PionerasDevBootcamp/PionerasDevBootcamp/Discoteque.Data/obj/Debug/net7.0/ref/Discoteque.Data.dll
